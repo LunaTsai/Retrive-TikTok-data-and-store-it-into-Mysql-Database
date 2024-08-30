@@ -1,7 +1,7 @@
 # Retrieve TikTok data and fetch it into Mysql Database
 
 # Overview
-This repository contains a Python script designed to retrieve user posts from TikTok using the Ensemble Data API and then store the data in a MySQL database
+This repository contains a Python script designed to retrieve user posts and comments from TikTok using the Ensemble Data API and then store the data in a MySQL database
 
 # Features
 1. Data Retrieval:
